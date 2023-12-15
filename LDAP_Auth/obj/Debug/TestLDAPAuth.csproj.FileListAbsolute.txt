@@ -1,0 +1,13 @@
+D:\Projects\TestLDAPAuth\bin\Debug\TestLDAPAuth.exe.config
+D:\Projects\TestLDAPAuth\bin\Debug\TestLDAPAuth.exe
+D:\Projects\TestLDAPAuth\bin\Debug\TestLDAPAuth.pdb
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.csproj.AssemblyReference.cache
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.csproj.SuggestedBindingRedirects.cache
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.Form1.resources
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.Properties.Resources.resources
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.csproj.GenerateResource.cache
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.csproj.CoreCompileInputs.cache
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.exe
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.pdb
+D:\Projects\TestLDAPAuth\bin\Debug\Novell.Directory.Ldap.dll
+D:\Projects\TestLDAPAuth\obj\Debug\TestLDAPAuth.csproj.CopyComplete
