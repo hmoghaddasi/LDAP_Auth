@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LDAP_Auth/.vs/TestLDAPAuth/FileContentIndex/01444571-16c0-44d0-adca-4b42c228293d.vsidx
+/LDAP_Auth/.vs/TestLDAPAuth/FileContentIndex/24cbb8b0-8acf-47b3-bb6b-44bbaff52c5f.vsidx
+/LDAP_Auth/.vs/TestLDAPAuth/FileContentIndex/71bef76f-4590-4483-a36c-4702ce4e5f75.vsidx
+/LDAP_Auth/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/LDAP_Auth/obj/Debug/TestLDAPAuth.csproj.AssemblyReference.cache
